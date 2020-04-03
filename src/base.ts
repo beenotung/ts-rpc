@@ -1,4 +1,4 @@
-import { MINUTE } from '@beenotung/tslib/time';
+import { MINUTE } from './helpers';
 
 export type CallType = 'query' | 'subscribe' | 'submit';
 

@@ -30,7 +30,6 @@
     "dist"
   ],
   "dependencies": {
-    "@beenotung/tslib": "^16.14.0",
     "node-fetch": "^2.6.0",
     "split": "^1.0.1",
     "tslib": "^1.11.1",
@@ -38,6 +37,7 @@
   },
   "devDependencies": {
     "@beenotung/gen-index": "^1.0.9",
+    "@beenotung/tslib": "^16.14.0",
     "@types/chai": "^4.2.7",
     "@types/mocha": "^5.2.7",
     "@types/node": "*",

@@ -7,6 +7,9 @@ export let B = 1;
 export let KB = B * 1024;
 export let MB = KB * 1024;
 
+export let SECOND = 1000;
+export let MINUTE = SECOND * 60;
+
 export let MaxRequestSize = 8 * MB;
 
 export type Addr = {
