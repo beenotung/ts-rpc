@@ -1,5 +1,5 @@
 {
-  "name": "ts-rpc",
+  "name": "@beenotung/ts-rpc",
   "version": "0.1.0",
   "description": "General purpose RPC client-server library.",
   "keywords": [],
