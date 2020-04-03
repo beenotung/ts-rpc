@@ -1,6 +1,6 @@
 {
   "name": "@beenotung/ts-rpc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "General purpose RPC client-server library.",
   "keywords": [],
   "author": "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh)",
